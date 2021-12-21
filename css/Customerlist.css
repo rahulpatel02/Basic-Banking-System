@@ -1,0 +1,67 @@
+body {
+    font-family: 'Baloo Bhai', cursive;
+    margin: 0px;
+    padding: 0px;
+
+
+}
+
+.top {
+    height: 300px;
+    color: white;
+    background-color: rgb(100, 145, 230);
+}
+
+.btnn {
+
+    width: 450px;
+
+    text-align: center;
+    margin-left: 480px;
+    margin-top: 150px;
+
+}
+
+.bt {
+    font-family: 'Baloo Bhai', cursive;
+    font-size: 24px;
+    color: black;
+    border: 2px solid black;
+    border-radius: 5px;
+    cursor: pointer;
+    background-color: rgb(105, 151, 216);
+
+}
+
+.bt:hover {
+    background-color:black;
+    color: white;
+}
+
+.table {
+    border-collapse: collapse;
+    border: 1px solid #ddd;
+    height: 500px;
+    width: 900px;
+    margin-left: 230px;
+
+
+}
+
+.table td,
+.table th {
+    border: 1px solid #ddd;
+    padding: 10px;
+
+}
+
+.table tr:hover {
+    background-color: #ddd;
+
+}
+
+th {
+    text-align: center;
+    
+
+}

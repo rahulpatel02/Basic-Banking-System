@@ -1,0 +1,44 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    background: url('../../img/ab.jpeg');
+    background-repeat: no-repeat;
+
+
+  }
+
+  .aboutmain {
+    height: 715px;
+    border: 1px solid;
+    border-collapse: collapse;
+
+  }
+
+  .maintext {
+    width: 26%;
+    color: white;
+    margin: 228px;
+    margin-left: 280px;
+  }
+
+  .card-img-top {
+    height: 80px;
+    width: 80px;
+    margin-left: 190px;
+  }
+
+  .card-title {
+    text-align: center;
+  }
+
+  ul.list {
+    list-style-type: none;
+  }
+
+  ul {
+    text-align: center;
+  }
+
+  .content {
+    font-size: 20px;
+  }
